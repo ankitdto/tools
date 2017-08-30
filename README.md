@@ -1,4 +1,4 @@
-# tools
+# Tool
 
 Please follow the below steps to run the tool.
 
